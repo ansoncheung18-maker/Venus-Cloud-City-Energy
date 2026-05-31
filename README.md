@@ -1,6 +1,8 @@
 # Venus Cloud City Energy (VCCE) 1.0
 
-**Solar power platform for Venus scientific missions** – 1 km² | 660 tons | 7 Starship launches | $1.3B | 59億度電/年
+**Solar power platform for Venus scientific missions** – 1 km² | 1,000 tons | 7 Starship launches | $1.3B | 59億度電/年
+
+---
 
 ## 🚀 Mission Overview
 
@@ -10,13 +12,15 @@ Deploy a **solar power platform** at Venus 55km altitude, delivering **59億度�
 |:---|:---|
 | Location | Venus 55km altitude (0.5 bar, 20-50°C) |
 | Platform Area | 1 km² |
-| Total Mass | 660 tons |
+| Total Mass | 1,000 tons |
 | Solar Efficiency | 35% (GaAs) |
 | Transmission | 2.45 GHz microwave |
 | Transmission Efficiency | 60% |
 | Annual Power to Orbit | ~35億度電/年 |
 | Starship Launches | 7 times |
 | Total Cost | $1.3B |
+
+---
 
 ## 🛰️ NASA Alignment
 
@@ -28,7 +32,7 @@ Deploy a **solar power platform** at Venus 55km altitude, delivering **59億度�
 
 ---
 
-## 📊 Project Progress (Phase A-D)
+## 📊 Project Progress (Phase A-F)
 
 | Phase | Status | Description |
 |:---|:---|:---|
@@ -36,14 +40,21 @@ Deploy a **solar power platform** at Venus 55km altitude, delivering **59億度�
 | **Phase B** | ✅ Complete | System specs, subsystem design, mass budget, FMEA |
 | **Phase C** | ✅ Complete | CAD drawings, BOM, manufacturing, assembly, test plan, cost |
 | **Phase D** | ✅ Complete | Digital twin simulation, night analysis, optimization |
+| **Phase E** | ✅ Complete | Operations and sustainment plan |
+| **Phase F** | ✅ Complete | Closeout and disposal plan |
+
+---
 
 ## 📁 Repository Structure
 Venus-Cloud-City-Energy/
 ├── README.md
 ├── Phase_A/
 │   ├── Venus_Cloud_City_Energy_1.0.md
+│   ├── VCCE_Optimization.md
 │   ├── vcce_simulation_results.txt
-│   └── ...
+│   ├── propellant_safety_simulation.txt
+│   ├── earth_vs_venus_comparison_simulation.txt
+│   └── proof_earth_test_not_needed.txt
 ├── Phase_B/
 │   ├── 1_System_Specifications.md
 │   ├── 2_Subsystem_Design.md
@@ -56,10 +67,16 @@ Venus-Cloud-City-Energy/
 │   ├── 4_Assembly_Process.md
 │   ├── 5_Test_Plan.md
 │   └── 6_Cost_Breakdown.md
-└── Phase_D/
-├── README.md
-├── digital_twin_simulation_results.txt
-└── venus_night_analysis.md
+├── Phase_D/
+│   ├── README.md
+│   ├── digital_twin_simulation_results.txt
+│   └── venus_night_analysis.md
+├── Phase_E/
+│   └── Phase_E_Operations_Plan.md
+└── Phase_F/
+└── Phase_F_Closeout_Plan.md
+
+---
 
 ## 📚 References
 
@@ -68,5 +85,7 @@ Venus-Cloud-City-Energy/
 - Soviet Vega Balloon Mission (1985)
 - SpaceX Starship User Guide, 2024
 
+---
+
 **Author:** Anson Cheung (Age 14)  
-**Last updated:** 2026-05-30
+**Last updated:** 2026-05-31
